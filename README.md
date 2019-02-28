@@ -1,1 +1,1 @@
-# SegueTest.github.io
+# SegueTest
